@@ -1,0 +1,39 @@
+---
+layout: base
+---
+
+<div class="intro-header"></div>
+
+<div role="main" class="container">
+  {{ content }}
+</div>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<style>
+  html, body {
+    height: 100%;
+    width: 100%;
+  }
+  #github-iframe {
+    position: fixed;
+    left: 32px;
+    top: 32px;
+  }
+  #area-render {
+    position: fixed;
+    width: 320px;
+    height: 160px;
+    right: 4px;
+    bottom: 4px;
+    border: dashed 1px #ccc;
+  }
+</style>
+<div id="github-iframe"></div>
+  
+<div id="area-render"></div>
+<script src="./js/line.js"></script>
+<script type="text/javascript">
+  var cn = new CanvasNest(document.getElementById('area-render'), {
+    color: '255,0,255',
+    count: 50,
+  });
+</script>
