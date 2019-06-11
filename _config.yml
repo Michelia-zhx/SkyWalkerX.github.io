@@ -4,8 +4,8 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-url: "https://hanxiao112358.github.io/HanXiao.github.io/"
-baseurl: "/HanXiao.github.io"
+url: "https://skywalkerx.github.io//SkyWalkerX.github.io/"
+baseurl: "/SkyWalkerX.github.io"
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -25,7 +25,7 @@ description: We are so Vegetable!
 navbar-links:
   About Me: 
     - More: "aboutme"
-  Github: "https://github.com/HanXiao112358/"
+  Github: "https://github.com/SkyWalkerX/"
   tags: "tags"
   #  - journal: "journal"
   #  - Academics: "Academics"
@@ -80,7 +80,7 @@ social-network-links:
   rss: true
   email: "181220067@smail.nju.edu.cn"
 #  facebook: daattali
-  github: HanXiao112358
+  github: SkyWalkerX
 #  twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
@@ -137,7 +137,7 @@ share-links-active:
 
 # Staticman support
 staticman:
-  repository : HanXiao112358/HanXiao.github.io # GitHub username/repository eg. "daattali/beautiful-jekyll"
+  repository : SkyWalkerX/SkyWalkerX.github.io # GitHub username/repository eg. "daattali/beautiful-jekyll"
   branch     : master # eg. "master" If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
   endpoint   : # URL of your own deployment (with trailing slash) (will fallback to a public GitLab instance)
   reCaptcha:
@@ -257,7 +257,7 @@ prose:
 plugins_dir:
   - jekyll-paginate
   - jekyll-sitemap
-repository: HanXiao112358/HanXiao.github.io
+repository: SkyWalkerX/SkyWalkerX.github.io
 # Beautiful Jekyll / Dean Attali
   # 2fc73a3a967e97599c9763d05e564189lsla
 
