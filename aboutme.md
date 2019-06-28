@@ -1,11 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: We are so vegetable!
+subtitle: I am so vegetable!
 ---
 
 My name is SkyWalkerX.
 
 ### my belief
 
-I am vegetable!
+I am a huge vegetable!
