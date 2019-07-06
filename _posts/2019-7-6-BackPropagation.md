@@ -47,7 +47,7 @@ $$
 ![](../img/Lecture5/3.png)
 ![](../img/Lecture5/4.png)
 
-- $\displaystyle\frac{{\rm d} \sigma(x)}{{\rm d} x} = \frac{e^{-x}}{(1+e^{-x})^2} = \left(\frac{1+e^{-x}-1}{1+e^{-x}}\right)\left(\frac{1}{1+e^{-x}}\right) = (1-\sigma(x))\sigma(x)$
+- $\displaystyle\frac{d\sigma(x)}{dx} = \frac{e^{-x}}{(1+e^{-x})^2} = \left(\frac{1+e^{-x}-1}{1+e^{-x}}\right)\left(\frac{1}{1+e^{-x}}\right) = (1-\sigma(x))\sigma(x)$
 
   ![](../img/Lecture5/5.png)
   ![](../img/Lecture5/6.png)
