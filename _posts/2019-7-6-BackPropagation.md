@@ -14,6 +14,8 @@ published: true
 image: /img/cover7.jpg
 ---
 
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default\></script>
+
 # Back Propagation
 
 ## From one-layer to multi layer neural networks
