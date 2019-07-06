@@ -14,6 +14,7 @@ published: true
 image: /img/cover4.jpg
 ---
 
+
 ## Word meaning
 - WordNet——has hypernyms relationships and synonyms sets
 - Problems with this discrate representation
